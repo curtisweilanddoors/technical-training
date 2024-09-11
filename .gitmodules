@@ -1,0 +1,3 @@
+[submodule "technical_training_submodule"]
+	path = technical_training_submodule
+	url = git@github.com:curtisweilanddoors/technical_training_submodule.git
